@@ -3,7 +3,7 @@
   "root_repo_branch": "main",
   "root_repo_local_dir": "/Users/amit.bezalel/workspace/mdwiki/data/root-git-repo",
   "storage_dir": "/Users/amit.bezalel/workspace/mdwiki/data/storage",
-  "save_mode": "local",
+  "save_mode": "git_sync",
   "spaces": [
     {
       "key": "main",
