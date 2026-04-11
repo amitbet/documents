@@ -60,6 +60,8 @@ flowchart LR
     end
 
     Start --> NetMeta
+    Start --> ScrapeLoops
+    Start --> FlowIngestor
     FlowIngestor --> ENIDump
 
     Agents --> ScrapeLoops
