@@ -6,11 +6,11 @@ and here.
 
 asdasdasda ssdfssd sf
 
-![ai-acceleration-bg.svg](assets/images/1775913964824077000-ai-acceleration-bg.svg)
+![ai-acceleration-bg.svg](<assets/images/1775913964824077000-ai-acceleration-bg.svg>)
 
 sdgf232134asda asdas
 
-![Screenshot 2026-03-05 at 21.56.44.png](<assets/images/1775914047803931000-Screenshot 2026-03-05 at 21.56.44.png>)
+![image1.png](<assets/images/1775914089255456000-image1.png>)![Screenshot 2026-03-05 at 21.56.44.png](<assets/images/1775914047803931000-Screenshot%202026-03-05%20at%2021.56.44.png>)
 
 new stuff
 
