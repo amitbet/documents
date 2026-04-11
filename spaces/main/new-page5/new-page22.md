@@ -6,7 +6,11 @@ and here.
 
 asdasdasda ssdfssd sf
 
+![ai-acceleration-bg.svg](assets/images/1775913964824077000-ai-acceleration-bg.svg)
+
 sdgf232134asda asdas
+
+![Screenshot 2026-03-05 at 22.03.19.png](<assets/images/1775913944363642000-Screenshot 2026-03-05 at 22.03.19.png>)
 
 new stuff
 
