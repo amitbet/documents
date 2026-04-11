@@ -4,6 +4,8 @@ Start writing here. 342 123sdf sdf
 
 and here.
 
+![4eaf98fa06e4b2dacb743e15f0e68ce3d0df0697_2_649x500.png](<.mdwiki/assets/images/1775914953174775000-4eaf98fa06e4b2dacb743e15f0e68ce3d0df0697_2_649x500.png>)
+
 asdasdasda <!-- wiki:comment:start:a_mnudi4pe_yoeyk0 -->ssdfssd<!-- wiki:comment:end:a_mnudi4pe_yoeyk0 --> sf
 
 sdgf232134asda asdas
