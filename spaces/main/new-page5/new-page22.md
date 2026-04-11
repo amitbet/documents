@@ -6,8 +6,6 @@ and here.
 
 asdasdasda ssdfssd sf
 
-![ai-acceleration-bg.svg](<assets/images/1775913964824077000-ai-acceleration-bg.svg>)
-
 sdgf232134asda asdas
 
 ![image1.png](<assets/images/1775914089255456000-image1.png>)
