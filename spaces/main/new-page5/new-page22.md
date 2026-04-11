@@ -8,8 +8,6 @@ asdasdasda <!-- wiki:comment:start:a_mnudi4pe_yoeyk0 -->ssdfssd<!-- wiki:comment
 
 sdgf232134asda asdas
 
-![image1.png](<assets/images/1775914089255456000-image1.png>)
-
 new stuff
 
 ```mermaid
