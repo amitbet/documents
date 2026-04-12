@@ -8,14 +8,17 @@
         
    &nbsp;- &nbsp;&nbsp;may benefit from deploy to **production**
         
+
 -   mdwiki 
     
-   &nbsp;- &nbsp;&nbsp;show and tell
-        
-   &nbsp;- &nbsp;&nbsp;talked with Karim, will sync tomorrow
-        
+
+    -   show and tell
+
+    -   talked with Karim, will sync tomorrow
+
 -   AI diagnosis
     
-   &nbsp;- &nbsp;&nbsp;need more real usecases
-        
-   &nbsp;- &nbsp;&nbsp;may benefit from deploy to **production**
+
+    -   need more real usecases
+
+    -   may benefit from deploy to **production**
