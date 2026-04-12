@@ -19,6 +19,6 @@ a12**3sd asd 24234 sdf**
 -   sdf1 asdas 3234 fsdf
     
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;222 asd asd &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asd gd f333erw asd &nbsp;&nbsp;&nbsp;ab &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+222 asd asd           asd gd f333erw asd    ab         
 
 asdgre ertfdg dfgb gfdfgeert dfgcvb sdf sdfshfgd
