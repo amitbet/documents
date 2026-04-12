@@ -1,0 +1,10 @@
+{
+  "user": "amit",
+  "space": "main",
+  "path": "docs/page.md",
+  "base_commit": "9eff6fbb3028c597629fcdc122033cc2ddc402d5",
+  "updated_at": "2026-04-12T08:13:41Z",
+  "format": "yjs",
+  "update_b64": "abc123",
+  "markdown": "# Draft body"
+}
