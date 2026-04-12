@@ -6,7 +6,7 @@ whatever. this looks fine.
 
 a12**3sd asd 24234**
 
-\-- fundango mao
+\-- fundango **mao**
 
 dfglkjhfgdkljdf sa;l'kg
 
